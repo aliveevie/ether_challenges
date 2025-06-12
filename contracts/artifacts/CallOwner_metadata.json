@@ -1,0 +1,53 @@
+{
+	"compiler": {
+		"version": "0.8.0+commit.c7dfd78e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "changeOwnercall",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/Telephone.sol": "CallOwner"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/Telephone.sol": {
+			"keccak256": "0xe06f74b9bd5f1266d552557385ab54c6daf5c806a0b86e24a5e1dde16c37d95d",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://aa9117a26b26140c1d360a6ffecf9d698b4e61c97f8f8796ebf1259d3173c951",
+				"dweb:/ipfs/QmVdVUiJsKBTzxKHvQJ2oT9FMVzsAwR8NFrcUMSsuHHEkm"
+			]
+		}
+	},
+	"version": 1
+}
